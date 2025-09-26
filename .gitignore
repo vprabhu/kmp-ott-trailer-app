@@ -1,0 +1,9 @@
+# Kotlin/Android/IntelliJ typical ignores
+/build
+/.idea
+*.iml
+/local.properties
+.DS_Store
+.gradle
+/captures
+
